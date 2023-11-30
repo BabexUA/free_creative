@@ -307,3 +307,43 @@ button {
   text-decoration: none;
   color: #2b59c3;
 }
+
+.stages_heading {
+  font-family: "20 Kopeek-Book";
+  font-size: 38px;
+  margin-bottom: 83px;
+}
+
+.stage_item {
+  width: 200px;
+}
+
+.stage_item:first-of-type {
+  width: 280px;
+}
+
+.stage_item img {
+  margin-bottom: 23px;
+}
+
+.stage_item h3 {
+  font-family: "20 Kopeek-Book";
+  font-size: 26px;
+}
+
+.stage_item h4 {
+  font-family: "20 Kopeek";
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 15px;
+}
+
+.stage_item p {
+  font-family: "20 Kopeek";
+  font-size: 15px;
+  line-height: 19px;
+}
+
+.mb-60 {
+  margin-bottom: 60px;
+}
