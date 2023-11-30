@@ -347,3 +347,32 @@ button {
 .mb-60 {
   margin-bottom: 60px;
 }
+
+.advantages {
+  background-image: url("../images/backpack.png");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 282px;
+  padding-bottom: 80px;
+  color: white;
+}
+
+.advantages_heading {
+  font-size: 55px;
+  font-family: "20 Kopeek-Book";
+  margin-bottom: 40px;
+}
+
+
+.advantages_item {
+  width: 200px;
+  font-size: 15px;
+  font-family: "20 Kopeek";
+}
+
+.advantages_item span{
+  font-size: 55px;
+  font-family: "20 Kopeek-Book";
+  margin-right: 8px;
+}
