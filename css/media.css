@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px){ 
+    .d-flex.aic{
+        display: none;
+    }
+
+    .main_banner {
+        background-image: url("../images/Rectangle\ 52.png");
+
+    }
+
+}
