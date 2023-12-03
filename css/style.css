@@ -350,7 +350,6 @@ button {
 
 .advantages {
   background-image: url("../images/backpack.png");
-  height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 282px;
@@ -375,4 +374,85 @@ button {
   font-size: 55px;
   font-family: "20 Kopeek-Book";
   margin-right: 8px;
+}
+
+.application{
+padding-top: 150px;
+padding-bottom: 20px;
+}
+
+.connect{
+  font-size: 18px;
+  font-family: "20 Kopeek";
+
+}
+
+.connect h3{
+  font-size: 38px;
+  font-family: "20 Kopeek-Book";
+  margin-bottom: 30px;
+}
+
+.connect_input{
+padding: 23px 244px 23px 29px;
+max-width: 445px;
+border-radius: 10px;
+display: inline-block;
+margin-bottom: 5px;
+}
+
+.connect_input:last-of-type{
+  margin-bottom: 25px;
+}
+
+.connect input:last-child{
+  margin-bottom: 25px;
+}
+
+.app_checkbox{
+  display: inline-block;
+  margin-bottom: 48px;
+}
+
+.contacts{
+  font-size: 26px;
+  font-family: "20 Kopeek-Book";
+  display: inline-block;
+}
+
+.contacts h3{
+  font-size: 38px;
+  margin-bottom: 30px;
+}
+
+.contacts a{
+  display: inline-block;
+  margin-bottom: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.app_button{
+  margin-bottom: 127px;
+}
+
+.mass_media{
+  font-size: 38px;
+  font-family: "20 Kopeek-Book";
+margin-bottom: 14px;
+}
+
+.usefull_links{
+  text-decoration: none;
+  color: #fff;
+  background-color: #2B59C3;
+  width: 256px;
+  border-radius: 10px;
+  font-family: "20 Kopeek";
+  padding: 6px 0px 16px 13px;
+  box-sizing: border-box; 
+}
+
+.link{
+  margin-top: 25px;
 }
