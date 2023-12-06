@@ -1,3 +1,138 @@
+@media only screen and (max-width: 992px){
+    .container{
+        max-width: 930px;
+    }
+
+    .main_banner{
+        padding-top: 301px;
+        padding-bottom: 225px;
+    }
+
+    .form{
+        display: none;
+    }
+
+    .form_media{
+        display: block;
+    }
+
+    .style_heading{
+        font-size: 34px;
+    }
+
+    .style_text{
+        font-size: 16px;
+    }
+    
+    .jars{
+        max-width: 450px;
+    }
+
+    .elements_heading{
+        font-size: 45px;
+    }
+
+    .element_figure{
+        font-size: 45px;
+    }
+
+    .element_text{
+        font-size: 16px;
+    }
+
+    .element_sub_text{
+        font-size: 14px;
+    }
+
+    .style_dev_text{
+        font-size: 16px;
+        margin-right: 30px;
+    }
+
+    .lifecare_img{
+        max-width: 530px;
+    }
+
+    .projects_image{
+        margin-bottom: 40px;
+        max-width: 930px;
+    }
+
+    .projects_description{
+        margin-bottom: 50px;
+    }
+    .projects_description:last-of-type{
+        margin-bottom: 20px;
+    }
+
+    .dislife{
+        max-width: 530px;
+    }
+
+    .guideline_text h3{
+        font-size: 20px;
+    }
+
+    .guideline_text{
+        font-size: 16px;
+    }
+
+    .form h3{
+        font-size: 20px;
+    }
+
+    .stages_heading{
+        font-size: 45px;
+    }
+
+    .stage_item h3{
+        font-size: 20px;
+    }
+
+    .stage_item h4{
+        font-size: 16px;
+    }
+
+    .stage_item p{
+        font-size: 14px;
+    }
+
+    .advantages{
+        padding-top: 97px;
+        padding-bottom: 60px;
+    }
+    .advantages_heading{
+font-size: 45px;
+    }
+
+    .advantages_item span{
+        font-size: 45px;
+    }
+
+    .advantages_item{
+        font-size: 14px;
+        width: 180px;
+    }
+
+    .application{
+        padding-top: 100px;
+        padding-bottom: 20px;
+    }
+
+    .connect h3 {
+        font-size: 34px;
+    }
+
+    .contacts a{
+        font-size: 26px;
+    }
+
+    .usefull_links{
+        width: 215px;
+        font-size: 16px ;
+    }
+}
+
 @media only screen and (max-width: 768px){ 
     .d-flex.aic{
         display: none;
@@ -7,5 +142,8 @@
         background-image: url("../images/Rectangle\ 52.png");
 
     }
+
+
+
 
 }
