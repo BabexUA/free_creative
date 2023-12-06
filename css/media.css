@@ -332,4 +332,34 @@
   .advantages_item p {
     max-width: 340px;
   }
+
+  .form_container{
+ flex-direction: column;
+  }
+
+.app_button{
+    margin-bottom: 61px;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact_link:last-of-type{
+margin-bottom: 120px;
+}
+
+.usefull_links{
+width: 35%;
+margin-right: 20px;
+}
+
+.usefull_links:nth-child(2){
+    margin-bottom: 35px;
+}
+.mass_media_container{
+    flex-wrap: wrap;
+    justify-content: start;
+}
 }
