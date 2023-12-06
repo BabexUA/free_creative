@@ -197,7 +197,6 @@
 
   .element {
     margin: 0;
-    /* width: 122px; */
     width: 33%;
   }
   .element:nth-child(3) {
