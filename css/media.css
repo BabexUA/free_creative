@@ -276,4 +276,26 @@
   .guideline_text p {
     max-width: 460px;
   }
+
+  .form_media h3{
+    font-size: 20px;
+  }
+
+  .form_media h2{
+    max-width: 460px;
+  }
+
+  .form_media div{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .form_input_media{
+    margin-bottom: 20px;
+  }
+
+  .button{
+    padding: 19px 47px;
+  }
 }
