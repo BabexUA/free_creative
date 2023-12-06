@@ -138,7 +138,7 @@
     max-width: 689px;
   }
 
-  .d-flex.aic {
+  .header_icons {
     display: none;
   }
 
@@ -162,15 +162,118 @@
     align-items: flex-start;
   }
 
-.main_link{
+  .main_link {
     font-size: 16px;
     padding: 19px 46px 19px 47px;
-}
+  }
 
-  .main_link:first-of-type{
+  .main_link:first-of-type {
     padding: 19px 83px 19px 47px;
     margin-bottom: 42px;
   }
 
+  .style_section {
+    padding-top: 100px;
+  }
 
+  .style_container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .style_text {
+    max-width: 460px;
+  }
+
+  .container.mb-150 {
+    margin-bottom: 119px;
+  }
+
+  .element_items {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .element {
+    margin: 0;
+    /* width: 122px; */
+    width: 33%;
+  }
+  .element:nth-child(3) {
+    break-after: always;
+  }
+  .element:last-of-type {
+    width: 66%;
+  }
+  .element_text {
+    width: 140px;
+  }
+  .element_sub_text {
+    width: 240px;
+  }
+
+  .style_heading.align_end {
+    display: flex;
+    align-items: start;
+  }
+
+  .style_dev {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .lifecare_img {
+    max-width: 689px;
+    order: 1;
+  }
+
+  .style_dev_text {
+    order: 2;
+    width: 75%;
+  }
+
+  .projects {
+    padding-bottom: 120px;
+  }
+
+  .projects_image {
+    max-width: 690px;
+  }
+
+  .projects_heading {
+    font-size: 45px;
+    margin-right: 70px;
+  }
+
+  .projects_link {
+    padding: 18px 47px;
+  }
+
+  .projects_description {
+    font-size: 16px;
+  }
+
+  .more_link {
+    margin-left: 220px;
+  }
+
+  .guideline {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 69px;
+  }
+
+  .dislife {
+    max-width: 450px;
+  }
+
+  .guideline_text div {
+    max-width: 460px;
+    padding: 11px 12px 13px 15px;
+  }
+
+  .guideline_text p {
+    max-width: 460px;
+  }
 }
