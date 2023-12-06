@@ -319,11 +319,12 @@ form h3 {
 }
 
 .stage_item {
-  width: 200px;
+width: 20%;
+margin-right: 50px;
 }
 
 .stage_item:first-of-type {
-  width: 280px;
+width: 40%;
 }
 
 .stage_item img {

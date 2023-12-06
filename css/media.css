@@ -234,7 +234,7 @@
   }
 
   .projects {
-    padding-bottom: 120px;
+    padding-bottom: 60px;
   }
 
   .projects_image {
@@ -298,4 +298,20 @@
   .button{
     padding: 19px 47px;
   }
+
+  .stages{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .stage_item{
+    width: 25%;
+}
+
+  .stage_item:first-of-type{
+    width: 100%;
+    margin-bottom: 18px;
+  }
+  
+
 }
